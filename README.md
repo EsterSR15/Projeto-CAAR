@@ -16,6 +16,10 @@ Além do mais ainda há como ver as notícias recentes relacionadas à agricultu
 - Caso não faça o cadastro, as funções são muito limitadas.
 - A maior parte das funções só podem ser usadas com internet.
 
+## Link do vídeo
+Esse vídeo foi feito para melhor compreensão do nosso projeto.
+- https://youtu.be/UKOeD4iRkjY
+
 ## Colaboradores do projeto:
 - Ester Sara Ribeiro.
 - Ana Laura Dutra Dihl.
