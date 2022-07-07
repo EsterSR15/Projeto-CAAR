@@ -8,4 +8,18 @@ Repositório destinado ao cadastro das atividades realizadas no curso de inform�
 ## Vantagens
 - Pode ser usado offline.
 - É gratuito.
-- 
+- Pode-se enviar dúvidas à profissionais especializados, caso não identifique o problema.
+
+## Desvantagens
+- Em muitos aparelhos, não é possível realizar o cadastro.
+- Caso não faça o cadastro, as funções são muito limitadas.
+- A maior parte das funções só podem ser usadas com internet.
+
+## Colaboradores do projeto:
+- Ester Sara Ribeiro.
+- Ana Laura.
+- Henrique Dutra Lupion de Queiroz.
+- Isaías de Oliveira.
+- Daniela Ribeiro Muller.
+- Sarah.
+- Yasmin.
